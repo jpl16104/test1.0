@@ -1,4 +1,4 @@
-# test1.0
+# Lab 1
 # Instructions
 ## Step 1:
 First download the folder by downloaidng the zip file including the j2024_09_03 folder
